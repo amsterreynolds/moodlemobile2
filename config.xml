@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.moodle.moodlemobile" version="3.2.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Moodle Mobile</name>
-  <description>Official Moodle Mobile app</description>
-  <author href="http://moodle.com" email="juan@moodle.com">Juan Leyva</author>
+  <name>NeoConsult Mobile</name>
+  <description>Test app for NeoConsult LMS</description>
+  <author href="https://lms.neoconsult.biz" email="james@neoconsult.biz">James Reynolds</author>
   <content src="index.html"/>
   <access origin="*"/>
   <allow-navigation href="cdvfile:*"/>
@@ -71,4 +71,4 @@
     <icon src="resources/ios/icon/icon-small@3x.png" width="87" height="87"/>
   </platform>
   <icon src="resources/android/icon/drawable-xhdpi-icon.png"/>
-</widget>
+</widget>l
